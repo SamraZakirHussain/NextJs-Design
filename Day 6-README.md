@@ -42,7 +42,7 @@ Challenges Faced
 - CORS Blocked Requests → Allowed Vercel domain in Sanity settings.
 
 Expected Deliverables
-- Staging Environment URL:nextjs-ecom-git-main-samrazakirhussains-projects.vercel.app
+- Staging Environment URL:https://nextjs-ecom-blush.vercel.app/
 - GitHub Repository with:
   - NextJs-Design/documents/ folder (Day 1-6 documentation)
   - Test case report in CSV format
